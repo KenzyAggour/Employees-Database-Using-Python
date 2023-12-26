@@ -1,0 +1,23 @@
+Department: HR
+
+id: 3, name: Ali ahmed, salary: 3000.0, dept is: HR
+
+id: 5, name: ali mahmoud, salary: 5000.0, dept is: HR
+
+
+Department: ENG
+
+id: 4, name: amr ahmed, salary: 4000.0, dept is: ENG
+
+id: 6, name: hossam ahmed, salary: 9000.0, dept is: ENG
+
+id: 7, name: muhammmed mamdouh, salary: 7000.0, dept is: ENG
+
+
+Department: finance
+
+id: 1, name: ahmed ali, salary: 2000.0, dept is: finance
+
+id: 2, name: mahmoud ahmed, salary: 4000.0, dept is: finance
+
+
